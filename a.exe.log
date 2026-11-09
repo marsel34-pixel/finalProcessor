@@ -1,0 +1,1687 @@
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF64C4C87D0 (64-bit), Flags: CMdRe0, Thread: 0x2940 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF64C48D3E3 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF64C48D74E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF64C4A53F2 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF64C48208C in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF64C4A47B5 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF64C4A4088 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 10:10:56, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 10:11:03
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF717D987D0 (64-bit), Flags: CMdRe0, Thread: 0x3B94 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF717D5D3E3 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF717D5D74E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF717D753F2 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF717D5208C in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF717D747B5 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF717D74088 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 10:13:18, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 10:13:25
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF76F2787D0 (64-bit), Flags: Cmdre0, Thread: 0x37B4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF76F23D3E3 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF76F23D74E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF76F2553D2 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF76F23208C in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF76F2547B0 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF76F254088 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 10:14:44, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 10:14:51
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6343187D0 (64-bit), Flags: Cmdre0, Thread: 0x47FC (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6342DDC73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6342DDFDE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6342F53D2 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6342D208C in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF6342D31F0 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF6342D2AC8 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 10:18:42, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 10:18:48
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF69DE987D0 (64-bit), Flags: CMdRe0, Thread: 0x38C0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF69DE5DC93 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF69DE5DFFE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF69DE51799 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: ADD()
+# 7 0x00007FF69DE52EBA in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 8 0x00007FF69DE52AC8 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 10:55:09, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 10:55:12
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7CBB787D0 (64-bit), Flags: CMdRe0, Thread: 0x2CB0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7CBB3DD13 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7CBB3E07E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7CBB55472 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7CBB3208C in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF7CBB3326F in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF7CBB32B28 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 11:30:20, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 11:30:23
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF735D087D0 (64-bit), Flags: CMdRe0, Thread: 0x3FEC (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF735CCDD13 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF735CCE07E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF735CE5472 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF735CC208C in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF735CC326F in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF735CC2B28 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 11:36:16, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 11:36:19
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF729D187D0 (64-bit), Flags: CMdRe0, Thread: 0x4148 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF729CDDD13 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF729CDE07E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF729CF5547 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:255
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF729CD19FC in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: DIV()
+# 8 0x00007FF729CD2F78 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF729CD2B28 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:35:36, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:35:42
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7FD0687D0 (64-bit), Flags: CMdRe0, Thread: 0x34A4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7FD02DD13 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7FD02E07E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7FD045547 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:255
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7FD0219FC in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: DIV()
+# 8 0x00007FF7FD022F78 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF7FD022B28 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:36:27, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:36:33
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF608B887D0 (64-bit), Flags: CMdRe0, Thread: 0x4070 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF608B4DD13 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF608B4E07E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF608B65547 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:255
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF608B419FC in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: DIV()
+# 8 0x00007FF608B42F78 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF608B42B28 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:37:03, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:37:09
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (8, 0x00): SIGFPE: Грубая ошибка в вычислениях. 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7E83787D0 (64-bit), Flags: CMdRe0, Thread: 0x3C94 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7E833DD13 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7E833E07E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7E8355547 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:255
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7E83319FC in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: DIV()
+# 8 0x00007FF7E8332F78 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF7E8332B28 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:37:31, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:37:39
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF745A487D0 (64-bit), Flags: CMdRe0, Thread: 0x2260 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF745A0DD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF745A0E0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF745A02FDE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 7 0x00007FF745A02B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:46:43, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:46:50
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF70E3C87D0 (64-bit), Flags: CMdRe0, Thread: 0x25D8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF70E38DD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF70E38E0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF70E382FDE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 7 0x00007FF70E382B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:52:42, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:52:49
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6445087D0 (64-bit), Flags: CMdRe0, Thread: 0x21F4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6444CDD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6444CE0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6444E5592 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6444C209E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF6444C32D0 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF6444C2B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 12:59:29, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 12:59:35
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7D3C687D0 (64-bit), Flags: CMdRe0, Thread: 0x3CD0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7D3C2DD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7D3C2E0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7D3C45592 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7D3C2209E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF7D3C232D0 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF7D3C22B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 13:06:26, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 13:06:32
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7A47187D0 (64-bit), Flags: CMdRe0, Thread: 0x4DC8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7A46DDD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7A46DE0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7A46F5592 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7A46D2038 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: PUSHMR()
+# 8 0x00007FF7A46D32A0 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF7A46D2B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 22:13:22, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 22:13:25
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6B0DA87D0 (64-bit), Flags: CMdRe0, Thread: 0x27B0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6B0D6DD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6B0D6E0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6B0D85592 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6B0D6209E in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: POPMR()
+# 8 0x00007FF6B0D632D0 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 9 0x00007FF6B0D62B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 17 2026 22:51:21, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 17 2026 22:51:28
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6816C87D0 (64-bit), Flags: CMdRe0, Thread: 0x1020 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF68168DD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF68168E0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF681682FDE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 7 0x00007FF681682B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 18 2026 00:10:06, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 18 2026 00:10:12
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7402C87D0 (64-bit), Flags: CMdRe0, Thread: 0x36F0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF74028DD73 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF74028E0DE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF740282FDE in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: goProgram()
+# 7 0x00007FF740282B48 in C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 18 2026 00:10:51, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 18 2026 00:10:57
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\processor\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\processor
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7E48987D0 (64-bit), Flags: CMdRe0, Thread: 0x15A0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7E485DD63 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7E485E0CE in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7E4875812 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7E4851AD6 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: POP()
+# 8 0x00007FF7E48530A5 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: goProgram()
+# 9 0x00007FF7E4852CF8 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 18 2026 23:32:07, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 18 2026 23:32:14
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF65FB887D0 (64-bit), Flags: CMdRe0, Thread: 0x3F10 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF65FB4DD23 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF65FB4E08E in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF65FB41799 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: ADD()
+# 7 0x00007FF65FB42FB3 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: goProgram()
+# 8 0x00007FF65FB42CB8 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 18 2026 23:55:53, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 18 2026 23:55:59
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF71F0287D0 (64-bit), Flags: CMdRe0, Thread: 0x44F8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF71EFEDD23 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF71EFEE08E in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF71EFE1799 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: ADD()
+# 7 0x00007FF71EFE2FB3 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: goProgram()
+# 8 0x00007FF71EFE2CB8 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 19 2026 20:13:44, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 19 2026 20:13:50
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6390487D0 (64-bit), Flags: CMdRe0, Thread: 0x1B9C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF63900DD23 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF63900E08E in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF639001934 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: MUL()
+# 7 0x00007FF639002FE6 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: goProgram()
+# 8 0x00007FF639002CB8 in C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 19 2026 20:47:58, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 19 2026 20:48:05
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\betterProc
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6E8F387D0 (64-bit), Flags: CMdRe0, Thread: 0x4534 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6E8EFDD63 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6E8EFE0CE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6E8F15A12 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6E8EF1B22 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF6E8EF30C4 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF6E8EF2CDD in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Oct 20 2026 21:02:13, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Oct 20 2026 21:02:21
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF708AC87D0 (64-bit), Flags: CMdRe0, Thread: 0xEA0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF708A8DCC3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF708A8E02E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF708AA5972 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF708A81A9C in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF708A82FE4 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF708A82C41 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:35:26, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:35:30
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6631687D0 (64-bit), Flags: CMdRe0, Thread: 0x3D9C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF66312DCE3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF66312E04E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF663145992 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF663121B3C in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF663123002 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF663122C41 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:40:35, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:40:39
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF684E787D0 (64-bit), Flags: CMdRe0, Thread: 0x2AB8 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF684E3DCF3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF684E3E05E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF684E559A2 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF684E31B3C in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF684E33012 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF684E32C51 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:43:24, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:43:28
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF62E2C87D0 (64-bit), Flags: CMdRe0, Thread: 0xF70 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF62E28DD03 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF62E28E06E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF62E2A59B2 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF62E281B3C in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF62E283022 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF62E282C61 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:44:03, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:44:07
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6B5F387D0 (64-bit), Flags: CMdRe0, Thread: 0x4A28 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6B5EFDCD3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6B5EFE03E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6B5F15982 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6B5EF1B2D in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF6B5EF2FF2 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF6B5EF2C31 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:47:12, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:47:15
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6BB1C87D0 (64-bit), Flags: CMdRe0, Thread: 0x572C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6BB18DCE3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6BB18E04E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6BB1A5992 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6BB181B3E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF6BB183002 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF6BB182C41 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:47:49, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:47:52
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6B39487D0 (64-bit), Flags: CMdRe0, Thread: 0x5644 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6B390DCF3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6B390E05E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6B39259A2 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6B3901B4D in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF6B3903012 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF6B3902C51 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 19:48:31, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  2 2026 19:48:34
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF63A8287D0 (64-bit), Flags: CMdRe0, Thread: 0x60E4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF63A7EDCD3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF63A7EE03E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF63A7E1F93 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: DIVO()
+# 7 0x00007FF63A7E318B in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 8 0x00007FF63A7E2C91 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  2 2026 20:10:01, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 09:42:42
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7D6DF97D0 (64-bit), Flags: CMdRe0, Thread: 0x6248 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7D6DBD9A3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7D6DBDD0E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7D6DD5652 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7D6DB1B65 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: POP()
+# 8 0x00007FF7D6DB2F5E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 9 0x00007FF7D6DB2E01 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 09:45:49, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 09:45:55
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF635C797D0 (64-bit), Flags: CMdRe0, Thread: 0x1064 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF635C3D9F3 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF635C3DD5E in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF635C556A2 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF635C32FA4 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 8 0x00007FF635C32E11 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 10:09:25, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 10:23:32
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7E004F7D0 (64-bit), Flags: Cmdre0, Thread: 0x51A4 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7E000E553 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7E000E8BE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7E0026202 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFD635BD8B3 in C:\Windows\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF7E0001B7B in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: fromComandToNum()
+# 9 0x00007FF7E00024CE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: analizeONEs()
+#10 0x00007FF7E0001A25 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: complile()
+#11 0x00007FF7E0001B00 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 10:24:21, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 10:24:27
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF660B3F7D0 (64-bit), Flags: Cmdre0, Thread: 0x500C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF660AFE553 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF660AFE8BE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF660B16202 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FFD635BD8B3 in C:\Windows\System32\ucrtbase.dll: strcmp()
+# 8 0x00007FF660AF1B7B in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: fromComandToNum()
+# 9 0x00007FF660AF24CE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: analizeONEs()
+#10 0x00007FF660AF1A25 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: complile()
+#11 0x00007FF660AF1B00 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 18:42:40, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 18:42:46
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (22, 0x00): SIGABRT: Аварийное завершение программы, вызвана функция abort(). 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF62161F7D0 (64-bit), Flags: Cmdre0, Thread: 0x544C (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6215DE553 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6215DE8BE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FFD63592139 in C:\Windows\System32\ucrtbase.dll: raise()
+# 3 0x00007FFD63575261 in C:\Windows\System32\ucrtbase.dll: abort()
+# 4 0x00007FFD6352FF6D in C:\Windows\System32\ucrtbase.dll: controlfp_s()
+# 5 0x00007FFD63593291 in C:\Windows\System32\ucrtbase.dll: assert()
+# 6 0x00007FF6215D1BC1 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: fromComandToNum()
+# 7 0x00007FF6215D24CE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: analizeONEs()
+# 8 0x00007FF6215D1A25 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: complile()
+# 9 0x00007FF6215D1B00 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+TXLib печалится: Нет информации об исходных файлах. Вы не забыли опцию -g при компиляции?
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 18:45:55, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 18:46:04
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6A39597D0 (64-bit), Flags: CMdRe0, Thread: 0x2808 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6A391DB53 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6A391DEBE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6A3935802 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6A39130D8 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 8 0x00007FF6A3912FC1 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 19:06:38, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 19:06:45
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF7DFCE97D0 (64-bit), Flags: CMdRe0, Thread: 0xA18 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF7DFCADB63 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF7DFCADECE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF7DFCC5812 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF7DFCA311F in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 8 0x00007FF7DFCA2FD1 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 20:19:06, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 20:19:12
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x00007FF6D81297D0 (64-bit), Flags: CMdRe0, Thread: 0x23D0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x00007FF6D80EDB63 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txError()
+# 1 0x00007FF6D80EDECE in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: (anonymous namespace)::TX::_txOnSignal()
+# 2 0x00007FF6D8105812 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: _gnu_exception_handler() at D:/W/B/src/mingw-w64/mingw-w64-crt/crt/crt_handler.c:209
+# 3 0x00007FFD63581D1F in C:\Windows\System32\ucrtbase.dll: _C_specific_handler()
+# 4 0x00007FFD662864AF in C:\Windows\SYSTEM32\ntdll.dll: _chkstk()
+# 5 0x00007FFD661E4065 in C:\Windows\SYSTEM32\ntdll.dll: RtlWow64GetCurrentMachine()
+# 6 0x00007FFD66285DEE in C:\Windows\SYSTEM32\ntdll.dll: KiUserExceptionDispatcher()
+# 7 0x00007FF6D80E311F in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: goProgram()
+# 8 0x00007FF6D80E2FD1 in C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe: main()
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	C:\Users\zakir\Downloads\TX\TXLib.h
+Compiled:	Nov  9 2026 20:20:14, GNU g++ 15.2.0, std=201703L, MinGW-W64 Runtime 14.0.0 (alpha - rev. 0) 0000-00-00, 64-bit, Debug
+Started:	Nov  9 2026 20:20:21
+
+Run file:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile\a.exe
+Directory:	C:\Users\zakir\OneDrive\Документы\cProject\muchBetterCompile
+
+--------------------------------------------------

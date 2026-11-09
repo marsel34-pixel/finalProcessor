@@ -1,0 +1,89 @@
+IN
+POP AX
+IN
+POP BX
+IN
+POP CX
+
+PUSH AX
+PUSH 0
+JUME :4
+    PUSH BX
+    PUSH BX
+    MUL
+    PUSH CX
+    PUSH AX
+    PUSH 4
+    PUSH -1
+    MUL
+    MUL
+    MUL
+    ADD
+    
+    SQRT
+    POP DX
+
+    PUSH DX
+    PUSH 0
+    JUMB :7
+    PUSH DX
+    PUSH 0
+    JUME :8
+    HLT
+    :8
+    PUSH BX
+    PUSH 2
+    DIV
+    PUSH AX
+    DIV
+    PUSH -1
+    MUL
+    OUT
+    HLT
+
+    :7
+    PUSH BX
+    PUSH -1
+    MUL
+    PUSH DX
+    ADD
+
+    PUSH 2
+    DIV
+    PUSH AX
+    DIV
+    OUT
+
+    PUSH BX
+    PUSH -1
+    MUL
+    PUSH DX
+    SUB
+
+    PUSH 2
+    DIV
+    PUSH AX
+    DIV
+    OUT
+    HLT
+:4
+
+PUSH BX
+PUSH 0
+JUME :5
+    PUSH CX
+    PUSH BX
+    DIV
+    PUSH -1
+    MUL
+    OUT
+    HLT
+:5
+    PUSH CX
+    PUSH 0
+    JUME :6
+        HLT
+    :6
+        PUSH -67
+        OUT 
+        HLT

@@ -1,0 +1,313 @@
+PUSH 0
+POPM 40000
+PUSH 0
+POPM 40001
+PUSH 10
+POPM 40002
+PUSH -10
+POPM 40003
+PUSH 10
+POPM 40004
+
+:13
+PUSH -50
+POP AX
+CALL :14
+:8
+PUSHM 40002
+PUSH AX
+ADD
+SIN
+POP BX
+
+PUSH BX
+PUSH 0
+
+JUMNE :10
+CALL :20
+CALL :2
+JUM :8
+:10
+PUSH BX
+PUSH 0
+JUMA :4
+    PUSH 10
+    PUSHM 40000
+    SUB
+    PUSH 10000
+    MUL
+    PUSH BX
+    DIV 
+    PUSH AX
+    COS
+    MUL
+    PUSH 1000
+    DIV
+    POP BX
+    
+    PUSH BX
+    PUSH 600
+    JUMB :11
+    PUSH 10000
+    PUSH BX
+    DIV
+
+
+    POP BX
+    CALL :5
+    CALL :2
+
+    PUSH AX
+    PUSH 50
+    JUMNE :8
+    JUM :9
+:4
+    PUSH -10
+    PUSHM 40000
+    SUB
+    PUSH 10000
+    MUL
+    PUSH BX
+    DIV 
+    PUSH AX
+    COS
+    MUL
+    PUSH 1000
+    DIV
+    POP BX
+    
+    PUSH BX
+    PUSH 600
+    JUMB :11
+
+    PUSH 10000
+    PUSH BX
+    DIV
+
+    POP BX
+    CALL :5
+    JUM :22
+    :11
+    CALL :20
+    :22
+    CALL :2
+
+    PUSH AX
+    PUSH 50
+    JUMNE :8
+
+:9
+DRAW
+PUSHM 40002
+PUSH -3
+ADD
+POPM 40002
+PUSHM 40002
+OUT
+JUM :13
+HLT
+
+
+
+:5
+
+PUSH 100
+PUSH BX
+SUB
+POP CX
+
+
+PUSH CX
+PUSH 0
+JUMB :17
+PUSH 0
+POP CX
+:17
+PUSH 200
+PUSH CX
+SUB
+POP BX
+
+PUSH BX
+POPM 40005
+
+:6
+    PUSH CX
+    PUSH 200
+    MUL
+
+    PUSH AX
+    PUSH 50
+    ADD
+    PUSH 2
+    MUL
+
+    ADD
+    POP DX
+    PUSH 1
+    POPMR DX
+
+    PUSH CX
+    PUSH 1
+    ADD
+    POP CX
+
+    PUSH CX
+    PUSH BX
+JUMA :6
+
+PUSH CX
+PUSH 200
+JUME :25
+:18
+PUSH CX
+    PUSH 200
+    MUL
+
+    PUSH AX
+    PUSH 50
+    ADD
+    PUSH 2
+    MUL
+
+    ADD
+    POP DX
+    PUSH 2
+    POPMR DX
+    PUSH CX
+    PUSH 1
+    ADD
+    POP CX
+
+    PUSH CX
+    PUSH 200
+JUMA :18
+:25
+
+PUSH 200
+PUSH BX
+SUB 
+POP CX
+:12
+    PUSH CX
+    PUSH 200
+    MUL
+    PUSH AX
+    PUSH 50
+    ADD
+    PUSH 2
+    MUL
+    PUSH 1
+    
+    ADD
+    ADD
+    POP DX
+    PUSH 1
+    POPMR DX
+
+    PUSH CX
+    PUSH 1
+    ADD
+    POP CX
+
+    PUSH CX
+    PUSH BX
+JUMA :12
+
+PUSH CX
+PUSH 200
+JUME :24
+:19
+PUSH CX
+    PUSH 200
+    MUL
+
+    PUSH AX
+    PUSH 50
+    ADD
+    PUSH 2
+    MUL
+    PUSH 1
+    ADD
+    ADD
+    POP DX
+    PUSH 2
+    POPMR DX
+    PUSH CX
+    PUSH 1
+    ADD
+    POP CX
+
+    PUSH CX
+    PUSH 200
+JUMA :19
+:24
+RET
+
+:2
+PUSH AX
+PUSH 1
+ADD
+POP AX
+RET
+
+
+:14
+PUSH 0
+POP CX
+
+:15
+
+PUSH 0
+POPMR CX
+PUSH CX
+PUSH 1
+ADD
+POP CX
+PUSH CX
+PUSH 40000
+JUMA :15
+
+RET
+
+
+:20
+
+PUSHM 40005
+POP CX
+
+PUSH CX
+PUSH 200
+JUME :26
+:21
+    PUSH CX
+    PUSH 200
+    MUL
+    PUSH AX
+    PUSH 50
+    ADD
+    PUSH 2
+    MUL
+    ADD
+    POP DX
+
+    PUSH 2
+    POPMR DX
+
+    PUSH 1
+    PUSH DX
+    ADD
+    POP DX
+    PUSH 2
+    POPMR DX
+
+    PUSH CX
+    PUSH 1
+    ADD
+    POP CX
+
+    PUSH CX
+    PUSH 200
+JUMA :21
+:26
+RET
