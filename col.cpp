@@ -3,8 +3,13 @@
 
 const int sizeDisplay = 40000;
 
-int main()
+int main(int argc, char* argv[])
 {
+    int optimazeForBadApple = 0;
+    if (argc == 2)
+    {
+        optimazeForBadApple = 1;
+    }
     FILE* f = fopen("output_640x480.rgb", "rb");
     FILE* cod = fopen("k.bin", "wb");
     assert(f);
@@ -28,9 +33,27 @@ int main()
                     {
                         bufferBin[lenAdded*10] = 0x21;//PUSH 
                         
-                        bufferBin[lenAdded*10+1] = buf[i*3]; //COLOR
-                        bufferBin[lenAdded*10+2] = buf[i*3+1];
-                        bufferBin[lenAdded*10+3] = buf[i*3+2];
+                        if (!optimazeForBadApple)
+                        {
+                            bufferBin[lenAdded*10+1] = buf[i*3]; //COLOR
+                            bufferBin[lenAdded*10+2] = buf[i*3+1];
+                            bufferBin[lenAdded*10+3] = buf[i*3+2];
+                        }
+                        else
+                        {
+                            if (buf[i*3] > 125)
+                            {
+                                bufferBin[lenAdded*10+1] = 255; //COLOR
+                                bufferBin[lenAdded*10+2] = 255;
+                                bufferBin[lenAdded*10+3] = 255;
+                            }
+                            else
+                            {
+                                bufferBin[lenAdded*10+1] = 0; //COLOR
+                                bufferBin[lenAdded*10+2] = 0;
+                                bufferBin[lenAdded*10+3] = 0;
+                            }
+                        }
                         bufferBin[lenAdded*10+4] = 4;
 
                         bufferBin[lenAdded*10 + 5] = 0xA7;//POP

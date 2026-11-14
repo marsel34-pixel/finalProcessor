@@ -12,6 +12,10 @@ void init()
 void draw(int *RAM)
 {
     static int *drawnBuf = (int*)calloc(sizeOfRAMLineX*sizeOfRAMLineY, 4);
+    int xStartForRectangle = -1;
+    int prevbuf1 = -1;
+    int prevbuf2 = -1;
+    int prevbuf3 = -1;
     int buf = 0;
     int buf2 = 0;
     int buf3 = 0;
@@ -27,8 +31,23 @@ void draw(int *RAM)
                     buf = RAM[y*sizeOfRAMLineX + x] >> 24;
                     buf2 = RAM[y*sizeOfRAMLineX + x] >> 16;
                     buf3 = RAM[y*sizeOfRAMLineX + x] >> 8;
+                    if (prevbuf1 == buf && prevbuf2 == buf2 && prevbuf3 == buf3)
+                    {
+                        if (xStartForRectangle < 0)
+                        {
+                            xStartForRectangle = x;
+                        }
+                    }
+                    else if(xStartForRectangle >= 0)
+                    {
+                        txRectangle(xStartForRectangle*sizeOfEl, y*sizeOfEl, x*sizeOfEl, (y+1)*sizeOfEl);
+                        xStartForRectangle = -1;
+                    }
                     txSetFillColor(RGB(buf, buf2, buf3));
                     txSetColor (RGB(buf, buf2, buf3)); 
+                    prevbuf1 = buf;
+                    prevbuf2 = buf2;
+                    prevbuf3 = buf3;
                 }
                 else if ((RAM[y*sizeOfRAMLineX + x] & 0xFF) == 0x3)
                 {
@@ -52,8 +71,27 @@ void draw(int *RAM)
                     txSetColor (TX_BLUE);
                     txSetFillColor(TX_BLUE);
                 }
-                txRectangle(x*sizeOfEl, y*sizeOfEl, (x+1)*sizeOfEl, (y+1)*sizeOfEl);
+                if (xStartForRectangle < 0)
+                {
+                    txRectangle(x*sizeOfEl, y*sizeOfEl, (x+1)*sizeOfEl, (y+1)*sizeOfEl);
+                }
             }
+            else
+            {
+                if (xStartForRectangle > -1)
+                {
+                    txRectangle(xStartForRectangle*sizeOfEl, y*sizeOfEl, x*sizeOfEl, (y+1)*sizeOfEl);
+                    xStartForRectangle = -1;
+                }
+            }
+        }
+        prevbuf1 = -1;
+        prevbuf2 = -1;
+        prevbuf3 = -1;
+        if(xStartForRectangle >= 0)
+        {
+            txRectangle(xStartForRectangle*sizeOfEl, y*sizeOfEl, 200*sizeOfEl, (y+1)*sizeOfEl);
+            xStartForRectangle = -1;
         }
     }
     txSleep(15);
